@@ -26,7 +26,7 @@ USB Cable & Laptop
 
 Normally a device transmits or receives a particular frequency. All IR devices operate between 36 Khz - 56 KHz. If given more time to complete this summative (1-2 weeks) it would have been possible to make a graphic user interface which would help store the IR signal for the device.
 
-![Screenshot](Uploadsimage.png)
+![Screenshot](Uploadsimage.jpg)
 
 The technology:
 
