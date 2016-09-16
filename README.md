@@ -26,6 +26,8 @@ USB Cable & Laptop
 
 Normally a device transmits or receives a particular frequency. All IR devices operate between 36 Khz - 56 KHz. If given more time to complete this summative (1-2 weeks) it would have been possible to make a graphic user interface which would help store the IR signal for the device.
 
+![Screenshot](Uploadsimage.png)
+
 The technology:
 
 In the IR decoder program, the TSOP repeats the program every 65 milliseconds. The array will store a segment of 100 integers which denote how long something was on for and how long it will be off. The IR segment is then copied into the IR signal program and the signal is played when the user inputs “POWER”. 
