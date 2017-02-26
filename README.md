@@ -1,4 +1,4 @@
-# universalRemote
+# Universal IR Remote Control
 
 A universal IR transmitter receiver system
 
